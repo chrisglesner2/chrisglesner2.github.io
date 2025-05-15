@@ -13,7 +13,7 @@ The OSPF FA Suppression feature in Translated Type-5 LSAs cause an NSSA ABR to t
 
 Let's begin with our topology. 
 
-[OSPF FA Suppression Topology](/assets/lib/ospf-supp-top.png)
+[OSPF FA Suppression Topology](/assets/ospf-supp-top.png)
 
 It's not the prettiest -- but hey, I'm not an artist. This topology was originally published by Rene at [gns3vault.com](https://gns3vault.com/ospf/ospf-suppress-forward-address). 
 
