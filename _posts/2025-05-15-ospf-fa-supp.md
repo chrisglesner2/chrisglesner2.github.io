@@ -7,13 +7,13 @@ tags: ["Cisco", "Networking", "OSPF", "Service Provider", "Enterprise"]
 
 # OSPF Forwarding Address Suppression
 
-The OSPF FA Suppression feature in Translated Type-5 LSAs cause an NSSA ABR to translate Type-7 LSAs to Type-5 LSAs, but the forwarding address in the LSA changes to 0.0.0.0 rather than the node that originates the Type-7 LSA. As a result, routers do not need to inject the original forwarding address into the backbone in order for traffic to reach the original ASBR. One of the main premise for the feature that I've found in Cisco documentation is to consolidate routes introduces into the backbone. 
+The OSPF FA Suppression feature in Translated Type-5 LSAs cause an NSSA ABR to translate Type-7 LSAs to Type-5 LSAs, but the forwarding address in the LSA changes to 0.0.0.0 rather than the node that originates the Type-7 LSA. As a result, routers do not need to inject the original forwarding address into the backbone in order for traffic to reach the original ASBR. The main reasoning for the feature that I've found in Cisco documentation is to consolidate the amount of routes of which are introduced into the backbone. 
 
 # Topology
 
 Let's begin with our topology. 
 
-[OSPF FA Suppression Topology](/assets/ospf-supp-top.png)
+<img src="/assets/ospf-supp-top.png" alt="OSPF FA Suppression Topology">
 
 It's not the prettiest -- but hey, I'm not an artist. This topology was originally published by Rene at [gns3vault.com](https://gns3vault.com/ospf/ospf-suppress-forward-address). 
 
