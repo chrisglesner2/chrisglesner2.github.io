@@ -117,3 +117,7 @@ Sending 5, 100-byte ICMP Echos to 1.1.1.1, timeout is 2 seconds:
 !!!!!
 Success rate is 100 percent (5/5), round-trip min/avg/max = 3/3/3 ms
 ```
+
+I'll admit I wish I knew some of the historical knowledge around this piece of technology. I can only intuit that routers were much less powerful a couple of decades ago. As a result, they couldn't run an SPF on a fairly frequent basis and maintain an LSDB with redundant LSAs.  
+
+This suppression does introduce a problem though. If there were two ABRs in the path, you would usually load-balance traffic among those two nodes. However, when you suppress the forwarding address, all traffic will be 'steered' through the ABR originating the Type-5 LSA. 
