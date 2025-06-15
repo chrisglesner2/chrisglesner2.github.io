@@ -1,5 +1,3 @@
-	
-
 ---
 title: Introduction
 date: 2025-06-15 HH:MM:SS +/-TTTT
