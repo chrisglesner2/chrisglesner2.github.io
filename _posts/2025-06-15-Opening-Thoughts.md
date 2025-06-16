@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2025-06-15 HH:MM:SS +/-TTTT
+date: 2025-06-15 08:28:15 +/-TTTT
 categories: [CCIE, NETWORKING, CISCO]
 tags: [ccie, networking]     # TAG names should always be lowercase
 ---
