@@ -13,7 +13,7 @@ A transit network in OSPF is simply a network of which connects routers together
 
 In our lab here, I'm modeling this after Narbik's CCIE Enterprise Infrastructure book. R1 and R3 have a transit network of 13.1.1.0/24. 
 
-![OSPF Prefix Suppression Topology](ospf-prefix-suppression-topology.png)
+![OSPF Prefix Suppression Topology](/assets/ospf-prefix-suppression-topology.png)
 
 ## Configuration
 
