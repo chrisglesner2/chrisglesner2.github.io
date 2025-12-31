@@ -15,7 +15,7 @@ I've had a few co-workers recently delve into the world of mind mapping. So, I d
 
 This is my first mind map that I've made. As mentioned, I'm studying SD-WAN for various reasons. It's still in its early infancy, but I mapped out each of the ENSDWI exam domains. I don't intend on taking the exam. It's just a good reference to ensure I know the topics.
 
-![SD-WAN Mind Map](assets/lib/SD-WAN-Mindmap.png)
+![SD-WAN Mind Map](assets/SD-WAN-Mindmap.png)
 
 ## Network Engineer Use Cases
 
