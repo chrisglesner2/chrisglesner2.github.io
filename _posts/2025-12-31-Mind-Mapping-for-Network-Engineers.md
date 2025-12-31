@@ -1,15 +1,13 @@
 ---
 title: Mind Mapping for Network Engineers
-date: 2025-12-20 05:50:15 +0000
+date: 2025-12-31 05:50:15 +0000
 categories: [CCIE, NETWORKING, CISCO]
 tags: [ccie, networking]     # TAG names should always be lowercase
 ---
 
-# Mind Mapping for Network Engineers
-
 ## Introduction
 
-I've had a few co-workers recently delve into the world of mind mapping. So, I decided to take a look for myself and apply it (Hello--SD-WAN). If you aren't too familiar, a mind map is a tree-like diagram demonstrating hierarchical relationships. You have the root which is your main subject; the root has several limbs, or branches, which are sub-topics. Tony Buzan, an English author, brought mind maps into light in the 1970s. His argument is that mind maps engage the whole brain, using verbal and visual cues. I suppose Buzan's model of neuroscience was that the left hemisphere of the brain is used for logical and verbal processing whereas the right hemisphere is used for creative and visual processing. I'm not a neuroscientist so I can't give any insight on this. A quick skim of a [Harvard article](https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222). It appears that the consensus is that it's factual that certain brain functions are located more on one hemisphere rather than the other. I'll be honest--I felt a little underwhelmed here. The evidence appears to be pretty inconclusive. This article does reference a study that brain activity didn't differ in terms of: did one side activate more than another? However, this article doesn't necessarily imply that the brain laterality model is wrong. Oh well, I'm not an expert. Back to mind maps.
+I've had a few co-workers recently delve into the world of mind mapping. So, I decided to take a look for myself and apply it (Hello--SD-WAN). If you aren't too familiar, a mind map is a tree-like diagram demonstrating hierarchical relationships. You have the root which is your main subject; the root has several limbs, or branches, which are sub-topics. Tony Buzan, an English author, brought mind maps into light in the 1970s. His argument is that mind maps engage the whole brain, using verbal and visual cues. I suppose Buzan's model of neuroscience was that the left hemisphere of the brain is used for logical and verbal processing whereas the right hemisphere is used for creative and visual processing. I'm not a neuroscientist so I can't give any insight on this. I gave a quick skim of a [Harvard article](https://www.health.harvard.edu/blog/right-brainleft-brain-right-2017082512222). It appears that the consensus is that it's factual that certain brain functions are located more on one hemisphere rather than the other. I'll be honest--I felt a little underwhelmed here. The evidence appears to be pretty inconclusive. This article does reference a study that brain activity didn't differ in terms of: did one side activate more than another? However, this article doesn't necessarily imply that the brain laterality model is wrong. Oh well, I'm not an expert. Back to mind maps.
 
 ## My Use Case
 
