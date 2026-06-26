@@ -1,5 +1,5 @@
 ---
-title: Working with YANG Models
+title: Working with YANG Models -- the Power of Pyang
 date: 2026-06-25 05:50:15 +0000
 categories: [PROGRAMMABILITY, NETWORKING, CISCO, NETWORK AUTOMATION]
 tags: [automation, networking]     # TAG names should always be lowercase
