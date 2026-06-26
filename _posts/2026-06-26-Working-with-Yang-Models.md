@@ -1,7 +1,7 @@
 ---
-title: Working with YANG Models -- the Power of Pyang
+title: Using Pyang to Explore Yang Models
 date: 2026-06-25 05:50:15 +0000
-categories: [PROGRAMMABILITY, NETWORKING, CISCO, NETWORK AUTOMATION]
+categories: [NETWORK AUTOMATION]
 tags: [automation, networking]     # TAG names should always be lowercase
 ---
 
