@@ -5,10 +5,6 @@ categories: [PROGRAMMABILITY, NETWORKING, CISCO, NETWORK AUTOMATION]
 tags: [automation, networking]     # TAG names should always be lowercase
 ---
 
-## Introduction
-
-
-
 ## Pyang Installation
 
 Let's begin with installing the Pyang package. It's currently on version 2.7.1. I created a virtual environment on my server for this.
