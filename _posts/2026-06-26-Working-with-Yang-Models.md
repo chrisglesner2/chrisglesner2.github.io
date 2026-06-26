@@ -1,5 +1,5 @@
 ---
-title: Working with YANG Models: Pyang vs RESTCONF Queries
+title: Working with YANG Models
 date: 2026-06-25 05:50:15 +0000
 categories: [PROGRAMMABILITY, NETWORKING, CISCO, NETWORK AUTOMATION]
 tags: [automation, networking]     # TAG names should always be lowercase
@@ -131,7 +131,7 @@ We've gotten our response formatted in JSON per our instructions in the header o
 ```
 ## Using Pyang
 
-Earlier, I queried the device directly using curl. We could've used pyang with the repository that we cloned early to 'walk' the tree of the ietf-interfaces YANG model in a more human-readable manner.
+Earlier, I queried the device directly using curl. We could've used pyang with our locally cloned repository to inspect and 'walk' the ietf-interfaces YANG model in a more human-readable form. You'll see that this method is much more preferable. We can parse the file locally and vividly see the model's structure.
 
 You can use the -f flag to choose the output that Pyang provides. I'm using tree but there are numerous options if you check the man page.
 
